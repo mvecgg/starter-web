@@ -21,7 +21,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 
 ### Copyright 
-2021 Git. Training 
+2021 Sep Git.Training.
 =======
 # starter-web
 Simple starting point website project based upon Initializr
